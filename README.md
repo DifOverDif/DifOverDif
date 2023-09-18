@@ -1,4 +1,4 @@
-#### I'm interested in 
+### I'm interested in 
 * Languages: C++, C#, Python, Javascript, Java
 * Topics: Vision AI, Computer Graphics
 
