@@ -1,4 +1,10 @@
-### Hi there 👋
+#### I'm interested in 
+* Languages: C++, C#, Python, Javascript, Java
+* Topics: Vision AI, Computer Graphics
+
+<br>
+
+Also, i enjoy problem solving.
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hywith28)](https://solved.ac/hywith28)
 
