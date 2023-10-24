@@ -1,6 +1,6 @@
 ### I'm interested in 
 * Languages: C++, C#, Python, Javascript, Java
-* Topics: Vision AI, Computer Graphics
+* Topics: Game programming, Computer Graphics, Vision AI
 
 <br>
 
