@@ -1,5 +1,5 @@
 ### I'm interested in 
-* Game programming, Game Physics, Languages: C++, C#, Python.
+* Game programming, Computer graphics, RealTime Physics, Languages: C++, C#, Python.
 
 <!--
 ### I'm interested in 
